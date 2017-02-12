@@ -1,3 +1,3 @@
 print("Hey there ")
-print("Git rox my socks")
+print("Git rocks my socks")
 print("OMG SO COOL")
